@@ -1,0 +1,14 @@
+# 草稿版本（本机保留，不发布）
+index-v*.html
+
+# 系统 / 编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# 临时文件
+*.log
+tmp/
+.chrome-profile/
